@@ -1,2 +1,3 @@
-# cpanel-hook-scripts
-cPanel Hook Scripts
+# cPanel Hook Scripts
+* postsuspendacct
+* postunsuspendacct
